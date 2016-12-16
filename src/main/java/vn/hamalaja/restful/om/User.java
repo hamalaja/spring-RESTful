@@ -1,4 +1,4 @@
-package vn.lamha.restful.om;
+package vn.hamalaja.restful.om;
 
 /**
  * @author lamhm

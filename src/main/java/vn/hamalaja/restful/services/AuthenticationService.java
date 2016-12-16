@@ -1,8 +1,8 @@
-package vn.lamha.restful.services;
+package vn.hamalaja.restful.services;
 
 import org.springframework.stereotype.Service;
 
-import vn.lamha.restful.om.User;
+import vn.hamalaja.restful.om.User;
 
 /**
  * @author lamhm

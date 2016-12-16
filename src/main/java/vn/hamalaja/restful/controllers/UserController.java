@@ -1,4 +1,4 @@
-package vn.lamha.restful.controllers;
+package vn.hamalaja.restful.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import vn.lamha.restful.om.User;
-import vn.lamha.restful.services.AuthenticationService;
+import vn.hamalaja.restful.om.User;
+import vn.hamalaja.restful.services.AuthenticationService;
 
 @RestController
 @RequestMapping("/user")
